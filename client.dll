@@ -1,0 +1,9 @@
+﻿run, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+sleep, 1000
+loop,
+{
+msgbox, L + ratio bozo
+msgbox, ratio + L bozo
+msgbox, Free Hack Client Discord.gg/cocomelon
+msgbox, L`nL`nL`nL`nL`nL
+}
